@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **mateusmaso/mateusmaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a product engineer and tech founder based in Florianópolis, Brazil.
+
+I’ve built software used by millions worldwide, working with big tech companies and startups across San Francisco, London, Toronto and Brazil.
+
+— Mateus
