@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I’m a product engineer and tech founder based in Florianópolis, Brazil.
 
-I’ve built software used by millions worldwide, working with big tech companies and startups across San Francisco, London, Toronto and Brazil. Currently designing restful experiences across wellness and hospitality.
+I’ve built software used by millions worldwide, working with big tech companies and startups across San Francisco, London, Toronto and Brazil. Currently designing restful experiences and tech across wellness and hospitality.
 
 — Mateus
